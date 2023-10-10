@@ -5,8 +5,6 @@ def majorityElement(nums):
 
     answer = nums[len(nums)//2]
 
-
-
     print(len(nums)//2)
     print(answer)
 
